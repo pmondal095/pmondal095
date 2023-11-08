@@ -17,8 +17,6 @@ I'm Partha, a 26+ years softwareb developer from India.
 ## Skills
 - 👨‍💻 Java, Kotlin, Python
   
-- ⚙️ React, Svelte
-
 - ☁️ Azure
 
 - 🔨 Spring, Springboot, Ktor, Dapr
