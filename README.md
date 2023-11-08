@@ -12,7 +12,7 @@ I'm Partha, a 26+ years softwareb developer from India.
 
 - 🎓 BE in Electrical Engineering from Jadavpur University (2020).
   
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/partha-sarathi-mondal) [Gmail](mailto:mondal.parthasarathi@outlook.com).
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/partha-sarathi-mondal) [Outlook](mailto:mondal.parthasarathi@outlook.com).
 
 ## Skills
 - 👨‍💻 Java, Kotlin, Python
