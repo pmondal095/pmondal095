@@ -6,7 +6,7 @@ I'm Partha, a 26+ years softwareb developer from India.e.
 
 - 👨‍💻 Working at [Tata Digital Private Limited](https://www.tatadigital.com)
 
--&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching and learning Artificial Intelligence & Machine Learning.
+- &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching and learning Artificial Intelligence & Machine Learning.
 
 - ⚡️ Fun-Fact: I have a degree in electrical engineering;
   
