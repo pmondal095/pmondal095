@@ -4,18 +4,24 @@
 
 I'm Partha, a 26+ years softwareb developer from India.
 
-- 👨‍💻 Working at [Tata Digital Private Limited](https://www.tatadigital.com)
+- 👨‍💻 Working at [Tata Digital Private Limited](https://www.tatadigital.in/).
+
+- ⚡ Helped in building the Super App for TATA [TataNeu](https://www.tatadigital.com), as a Sr. Digital Engineer-L1.
 
 - :writing_hand: &nbsp;Currently researching and learning Artificial Intelligence & Machine Learning.
 
-- ⚡️ Fun-Fact: I have a degree in electrical engineering.
+- 🎓 BE in Electrical Engineering from Jadavpur University (2020).
   
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/partha-sarathi-mondal) [Gmail](mailto:mondal.parthasarathi@outlook.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/partha-sarathi-mondal) [Gmail](mailto:mondal.parthasarathi@outlook.com).
 
 ## Skills
 - 👨‍💻 Java, Kotlin, Python
   
 - ⚙️ React, Svelte
+
+- ☁️ Azure
+
+- 🔨 Spring, Springboot, Ktor, Dapr
   
-- 💽 PostgreSQL, SQL, Mongo, Cosmos
+- 💽 PostgreSQL, SQL, Mongo, CosmosDB
 
